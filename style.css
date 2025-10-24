@@ -1,0 +1,41 @@
+body{
+backgroundcolor:red;
+}
+p{
+color:violet;
+}	
+h2{
+color:green;
+text-align:center;
+font-family:'comic sans ms',curwsive;
+font-style:italic;
+}
+h3{
+color: darkgreen; 
+font-family: 'Cambria', serif;
+} 		
+ol{
+color: maroon;
+}
+ul{
+color:blue;
+}
+table {
+ border-collapse: collapse;
+ width: 30%;
+ }
+ th, td {
+ border: 1px solid #ddd;
+ padding: 8px;
+ text-align: left;
+ }
+ th {
+ background-color: purple;
+ color: white;
+ }
+ tr:nth-child(even) {
+ background-color: #f2f2f2;
+ }
+ tr:hover {
+ background-color: #ddd;
+ }
